@@ -1,0 +1,2 @@
+- Nếu muốn tạo môi trường conda từ file **`.yml`**, dùng lệnh: **`conda env create -f <tên_file>.yml`**.
+- Nếu muốn tạo môi trường conda với bản python cụ thể, dùng lệnh **`conda create -n <tên_môi_trường> python=<python_version>`**.
